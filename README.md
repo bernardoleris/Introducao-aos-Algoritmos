@@ -1,1 +1,1 @@
-teste
+Aqui estão disponibilizados alguns dos códigos desenvolvidos no meu primeiro contato com a programação! Eles abordam assuntos como vetores, registros, repetições e recursividade, todos em linguagem C++.
